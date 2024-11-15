@@ -48,5 +48,6 @@
   },
   // "python.defaultInterpreterPath": "./venv/bin/python",
   "python.analysis.typeCheckingMode": "basic",
-  "cSpell.enabled": true
+  "cSpell.enabled": true,
+  "window.zoomLevel": 0
 }
